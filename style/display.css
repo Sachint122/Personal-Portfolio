@@ -107,9 +107,21 @@
     box-shadow: 0px 0px 25px rgba(227, 8, 8, 0.485);
 
 }
+.form{
+    height: 10px;
+    overflow: hidden;
+    background-color: rgba(237, 16, 16, 0);
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+
+}
 
 .MAIN {
-    background-color: rgba(255, 0, 0, 0);
+    height: 10px;
+    overflow: hidden;
+    background-color: rgba(237, 16, 16, 0);
     width: 600px;
     margin: auto;
     padding: 20px;
